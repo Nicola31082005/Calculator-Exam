@@ -17,3 +17,7 @@ npm run dev
 ```
 
 Then open your browser to the URL shown in the terminal (usually http://localhost:5173/).
+
+## Live Demo
+
+Check out the live demo: [Calculator App](https://calculator-exam-gydk.vercel.app/)
